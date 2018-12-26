@@ -27,3 +27,8 @@ section{
 img{
   width: 100%;
 }
+
+footer{
+  background-color: #4a148c;
+  color: #ffffff;
+}
