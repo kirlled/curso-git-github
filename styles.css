@@ -1,0 +1,15 @@
+body, ul, h1, h2, h3, h4, h5{
+  padding: 0;
+  margin: 0;
+}
+
+.pre-header{
+  background-color: #0077c2;
+  padding: 1rem;
+  color: #ffffff;
+}
+
+header{
+  background-color: #42a5f5;
+  padding: 1rem;
+}
