@@ -32,3 +32,9 @@ footer{
   background-color: #4a148c;
   color: #ffffff;
 }
+
+@media screen and (max-width: 600px) {
+  .container{
+    padding: 3rem 1rem;
+  }
+}
