@@ -20,6 +20,10 @@ section{
   padding: 3rem 1rem;
 }
 
+ul > li{
+  display: inline-block;
+}
+
 .container{
   padding: 3rem 15rem;
 }
